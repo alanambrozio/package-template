@@ -1,22 +1,22 @@
-# package_name
+# banco_teste_alan
 
 Description. 
-The package package_name is used to:
+The package banco_teste_alan is used to:
 	- 
 	-
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install banco_teste_alan
 
 ```bash
-pip install package_name
+pip install banco_teste_alan
 ```
 
 ## Usage
 
 ```python
-from package_name.module1_name import file1_name
+from banco_teste_alan.module1_name import file1_name
 file1_name.my_function()
 ```
 
